@@ -1,2 +1,3 @@
-# Project-38
-Infinite runner Game
+# trex
+Offline Game where trex jumps and runs over the obstacles.
+
